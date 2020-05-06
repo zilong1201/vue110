@@ -1,6 +1,7 @@
 import Vue from 'vue'
 
 import './lib/mui/css/mui.min.css'
+
 //按需导入mint-UI中的组件
 import { Header } from 'mint-ui'
 Vue.component(Header.name, Header)
