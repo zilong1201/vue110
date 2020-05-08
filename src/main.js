@@ -7,8 +7,8 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 //2.1导入vue-resource
-import VueResource from 'vue-resource'
-Vue.use(VueResource)
+//import VueResource from 'vue-resource'
+//Vue.use(VueResource)
 
 
 
